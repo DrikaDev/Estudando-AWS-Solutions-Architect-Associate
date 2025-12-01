@@ -17,7 +17,7 @@
 ## 📒 Índice de Conteúdos
 
 ### 📖 Guia do Exame
-- [Guia do Exame AWS Certified Solutions Architect – Associate (SAA-C03)](https://d1.awsstatic.com/pt_BR/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf)
+- [Guia do Exame AWS Certified Solutions Architect – Associate (SAA-C03)](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/blob/main/conteudos/0.%20Guia%20do%20Exame.md)
 
 ---
 
