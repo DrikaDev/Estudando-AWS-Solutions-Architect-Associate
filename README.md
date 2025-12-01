@@ -4,7 +4,7 @@
 
 ✏️ Este repositório documenta minha jornada de estudos para a certificação **AWS Certified Solutions Architect – Associate**.  
 📝 Aqui reúno minhas anotações, resumos, explicações e exercícios práticos sobre arquitetura de soluções na AWS.  
-🚧 Este conteúdo está sendo construído gradualmente à medida que avanço na preparação rumo à certificação de arquiteta de soluções.  
+🚧 Este conteúdo está sendo construído **gradualmente** à medida que avanço na preparação rumo à certificação de arquiteta de soluções.  
 
 🛑 Atenção! Os Labs são realizados *exclusivamente* em ambiente Sandbox. ⌛
 
