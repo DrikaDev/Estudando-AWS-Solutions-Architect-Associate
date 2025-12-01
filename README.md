@@ -23,7 +23,8 @@
 
 ## ☁️ Fundamentos de Arquitetura AWS
 
-- [O que faz um Solutions Architect?](link)
+- [O que é ser um AWS Cloud Architect?](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/blob/main/conteudos/1.%20O%20que%20%C3%A9%20ser%20um%20AWS%20Cloud%20Architect.md)
+- [O que é Arquitetura de Nuvem?](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/blob/main/conteudos/2.%20O%20que%20%C3%A9%20arquitetura%20de%20nuvem.md)
 - [Pilares do AWS Well-Architected Framework](link)
 - [Projeto de Arquiteturas Resilientes](link)
 - [Projeto para Alto Desempenho](link)
