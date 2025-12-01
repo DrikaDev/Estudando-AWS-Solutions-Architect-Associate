@@ -24,7 +24,7 @@
 ## ☁️ Fundamentos de Arquitetura AWS
 
 - [O que é ser um AWS Cloud Architect?](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/blob/main/conteudos/1.%20O%20que%20%C3%A9%20ser%20um%20AWS%20Cloud%20Architect.md)
-- [Arquitetura de Nuvem?](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/blob/main/conteudos/2.%20Arquitetura%20de%20nuvem.md)
+- [Arquitetura de Nuvem](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/blob/main/conteudos/2.%20Arquitetura%20de%20nuvem.md)
 - [AWS Well-Architected Framework](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/blob/main/conteudos/3.%20AWS%20Well-Architected%20Framework.md)
 - [Práticas recomendadas para criar soluções na AWS](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/blob/main/conteudos/4.%20Pr%C3%A1ticas%20recomendadas%20para%20criar%20solu%C3%A7%C3%B5es%20na%20AWS.md)
 - [Infraestrutura Global da AWS](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/blob/main/conteudos/5.%20Infraestrutura%20Global%20da%20AWS.md)
