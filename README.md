@@ -25,12 +25,9 @@
 
 - [O que é ser um AWS Cloud Architect?](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/blob/main/conteudos/1.%20O%20que%20%C3%A9%20ser%20um%20AWS%20Cloud%20Architect.md)
 - [O que é Arquitetura de Nuvem?](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/blob/main/conteudos/2.%20O%20que%20%C3%A9%20arquitetura%20de%20nuvem.md)
-- [Pilares do AWS Well-Architected Framework](link)
-- [Projeto de Arquiteturas Resilientes](link)
-- [Projeto para Alto Desempenho](link)
-- [Projeto para Segurança](link)
-- [Projeto para Custo Eficiente](link)
-- [Projeto para Operações Confiáveis](link)
+- [AWS Well-Architected Framework](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/blob/main/conteudos/3.%20AWS%20Well-Architected%20Framework.md)
+- [Práticas recomendadas para criar soluções na AWS](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/blob/main/conteudos/4.%20Pr%C3%A1ticas%20recomendadas%20para%20criar%20solu%C3%A7%C3%B5es%20na%20AWS.md)
+- [Infraestrutura Global da AWS](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/blob/main/conteudos/5.%20Infraestrutura%20Global%20da%20AWS.md)
 
 ---
 
@@ -79,8 +76,7 @@
 ---
 
 ## 🧪 Laboratórios Práticos  
-*(lista será expandida conforme novos labs forem criados)*
-
+> *(em construção)*
 - Projetando arquiteturas Multi-AZ  
 - Criando ambientes Auto Scaling + Load Balancer  
 - Subindo aplicações serverless com Lambda + API Gateway  
@@ -89,6 +85,11 @@
 - Replicando dados entre regiões com S3 e DynamoDB  
 - Construindo bancos de dados resilientes com Aurora  
 - Configurando observabilidade com CloudWatch e CloudTrail  
+- [Projeto de Arquiteturas Resilientes](link)
+- [Projeto para Alto Desempenho](link)
+- [Projeto para Segurança](link)
+- [Projeto para Custo Eficiente](link)
+- [Projeto para Operações Confiáveis](link)
 
 ---
 
