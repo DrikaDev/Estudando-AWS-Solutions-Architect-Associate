@@ -28,6 +28,7 @@
 - [AWS Well-Architected Framework](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/blob/main/conteudos/3.%20AWS%20Well-Architected%20Framework.md)
 - [Práticas recomendadas para criar soluções na AWS](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/blob/main/conteudos/4.%20Pr%C3%A1ticas%20recomendadas%20para%20criar%20solu%C3%A7%C3%B5es%20na%20AWS.md)
 - [Infraestrutura Global da AWS](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/blob/main/conteudos/5.%20Infraestrutura%20Global%20da%20AWS.md)
+- [Princípios de Segurança: Proteção do Acesso](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/blob/main/conteudos/6.%20Princ%C3%ADpios%20de%20seguran%C3%A7a.md)
 
 ---
 
