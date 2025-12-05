@@ -62,7 +62,7 @@
 Olá! Me chamo **Adriana Gutierrez**, profissional 40+, formada em Análise e Desenvolvimento de Sistemas, com inglês avançado e experiência prévia como desenvolvedora front-end.  
 
 Estou em transição de carreira para a área de **arquitetura de soluções em nuvem**, com foco na AWS.  
-Em **novembro/2025**, conquistei a certificação **AWS Certified Cloud Practitioner**.
+Em **novembro/2025**, conquistei a certificação **AWS Certified Cloud Practitioner**.  
 Agora sigo avançando rumo a **AWS Solutions Architect – Associate**. 🚀  
 
 ---
