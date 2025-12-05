@@ -35,52 +35,9 @@
 
 ---
 
-## 🏗️ Serviços Essenciais para Arquitetos
-
-### 🔹 Compute
-- Amazon EC2 (famílias, otimizações, networking e armazenamento)
-- Elastic Load Balancing (ELB)
-- Auto Scaling (ASG)
-- AWS Lambda
-- ECS / EKS (alto nível)
-
-### 🔹 Storage
-- Amazon S3 (classes de armazenamento, versionamento, criptografia)
-- Amazon EFS
-- Amazon FSx (Lustre e Windows File Server)
-- AWS Backup
-
-### 🔹 Redes
-- Amazon VPC (sub-redes, rotas, NACLs e SGs)
-- VPC Peering
-- Transit Gateway
-- AWS Direct Connect
-- Elastic IP / ENI
-
-### 🔹 Bancos de Dados
-- Amazon RDS (Multi-AZ, Read Replicas)
-- Amazon Aurora
-- Amazon DynamoDB
-- ElastiCache (Redis / Memcached)
-
-### 🔹 Segurança
-- IAM (Policies, Roles, Federation, Boundary)
-- AWS KMS
-- Amazon Inspector
-- AWS WAF / Shield
-- AWS Secrets Manager / Parameter Store
-
-### 🔹 Monitoramento e Operações
-- Amazon CloudWatch
-- AWS CloudTrail
-- AWS Config
-- Amazon EventBridge
-- Amazon SNS / SQS
-
----
-
 ## 🧪 Laboratórios Práticos  
-> *(em construção)*
+> *(em construção)*  
+- [Análise do AWS Identity and Access Management (IAM)](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/blob/main/conteudos/10.%20Laborat%C3%B3rio%20-%20An%C3%A1lise%20do%20IAM.md)
 - Projetando arquiteturas Multi-AZ  
 - Criando ambientes Auto Scaling + Load Balancer  
 - Subindo aplicações serverless com Lambda + API Gateway  
@@ -89,11 +46,14 @@
 - Replicando dados entre regiões com S3 e DynamoDB  
 - Construindo bancos de dados resilientes com Aurora  
 - Configurando observabilidade com CloudWatch e CloudTrail  
-- [Projeto de Arquiteturas Resilientes](link)
-- [Projeto para Alto Desempenho](link)
-- [Projeto para Segurança](link)
-- [Projeto para Custo Eficiente](link)
-- [Projeto para Operações Confiáveis](link)
+
+## 🏗️ Projetos Práticos  
+> *(em construção)*  
+- [Projeto de Arquiteturas Resilientes]()
+- [Projeto para Alto Desempenho]()
+- [Projeto para Segurança]()
+- [Projeto para Custo Eficiente]()
+- [Projeto para Operações Confiáveis]()
 
 ---
 
@@ -102,7 +62,8 @@
 Olá! Me chamo **Adriana Gutierrez**, profissional 40+, formada em Análise e Desenvolvimento de Sistemas, com inglês avançado e experiência prévia como desenvolvedora front-end.  
 
 Estou em transição de carreira para a área de **arquitetura de soluções em nuvem**, com foco na AWS.  
-Em **novembro/2025**, conquistei a certificação **AWS Certified Cloud Practitioner**, e agora avanço para a **AWS Solutions Architect – Associate**. 🚀  
+Em **novembro/2025**, conquistei a certificação **AWS Certified Cloud Practitioner**.
+Agora sigo avançando rumo a **AWS Solutions Architect – Associate**. 🚀  
 
 ---
 
