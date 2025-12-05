@@ -49,11 +49,11 @@
 
 ## 🏗️ Projetos Práticos  
 > *(em construção)*  
-- [Projeto de Arquiteturas Resilientes]()
-- [Projeto para Alto Desempenho]()
-- [Projeto para Segurança]()
-- [Projeto para Custo Eficiente]()
-- [Projeto para Operações Confiáveis]()
+- Projeto de Arquiteturas Resilientes
+- Projeto para Alto Desempenho
+- Projeto para Segurança
+- Projeto para Custo Eficiente
+- Projeto para Operações Confiáveis
 
 ---
 
