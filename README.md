@@ -32,6 +32,12 @@
 - [Autenticação e Proteção de Acesso na AWS](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/blob/main/conteudos/7.%20Autentica%C3%A7%C3%A3o%20e%20Prote%C3%A7%C3%A3o%20de%20Acesso%20na%20AWS.md)
 - [Autorização de Usuários na AWS](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/blob/main/conteudos/8.%20Autoriza%C3%A7%C3%A3o%20de%20Usu%C3%A1rios%20na%20AWS.md)
 - [Partes de uma Política do IAM](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/blob/main/conteudos/9.%20Partes%20de%20uma%20Pol%C3%ADtica%20do%20IAM.md)
+- [Definição do Amazon S3](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/blob/main/conteudos/11%20.%20Defini%C3%A7%C3%A3o%20do%20Amazon%20S3.md)
+- [Uso do Amazon S3](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/blob/main/conteudos/12.%20Uso%20do%20Amazon%20S3.md)
+- [Movimentação de Dados de Entrada e Saída do Amazon S3](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/blob/main/conteudos/13.%20Movimenta%C3%A7%C3%A3o%20de%20Dados%20de%20Entrada%20e%20Sa%C3%ADda%20do%20Amazon%20S3.md)
+- [Armazenamento de Conteúdo com o Amazon S3](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/blob/main/conteudos/14.%20Armazenamento%20de%20Conte%C3%BAdo%20com%20o%20Amazon%20S3.md)
+- [Criação com o Amazon S3](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/blob/main/conteudos/15.%20Cria%C3%A7%C3%A3o%20com%20o%20Amazon%20S3.md)
+- []()
 
 ---
 
