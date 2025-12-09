@@ -36,7 +36,7 @@
 - [Uso do Amazon S3](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/blob/main/conteudos/12.%20Uso%20do%20Amazon%20S3.md)
 - [Movimentação de Dados de Entrada e Saída do Amazon S3](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/blob/main/conteudos/13.%20Movimenta%C3%A7%C3%A3o%20de%20Dados%20de%20Entrada%20e%20Sa%C3%ADda%20do%20Amazon%20S3.md)
 - [Armazenamento de Conteúdo com o Amazon S3](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/blob/main/conteudos/14.%20Armazenamento%20de%20Conte%C3%BAdo%20com%20o%20Amazon%20S3.md)
-- [Criação com o Amazon S3](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/blob/main/conteudos/15.%20Cria%C3%A7%C3%A3o%20com%20o%20Amazon%20S3.md)
+- [Criptografia e Proteção de Dados](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/blob/main/conteudos/15.%20Criptografia%20e%20Prote%C3%A7%C3%A3o%20de%20Dados.md)
 
 ---
 
