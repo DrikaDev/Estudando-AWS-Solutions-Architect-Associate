@@ -4,9 +4,10 @@ Uma empresa possui uma aplicação web com padrões de uso esporádicos.
 Há um uso intenso no início de cada mês, uso moderado no início de cada semana e uso imprevisível durante a semana.  
 A aplicação consiste em um servidor web e um servidor de banco de dados MySQL em execução dentro do data center.  
 
-🤔 A empresa gostaria de mover a aplicação para a AWS Cloud e precisa selecionar uma plataforma de banco de dados com custo eficaz que não exigirá modificações no banco de dados.  
+### 🤔 A empresa gostaria de mover a aplicação para a AWS Cloud e precisa selecionar uma plataforma de banco de dados com custo eficaz que não exigirá modificações no banco de dados.  
 
-➡️ Resposta: Amazon Aurora Serverless compatível com MySQL
+### ➡️ Resposta: 
+Amazon Aurora Serverless compatível com MySQL
 
 ## 🧩 Entendendo o problema (tradução da prova)
 A empresa tem:
