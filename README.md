@@ -12,14 +12,10 @@
 > Sinta-se livre para sugerir mudanças!  
 > Se este conteúdo for útil para você, deixe uma ⭐!  
 
----
-
 ## 📒 Índice de Conteúdos
 
 ### 📖 Guia do Exame
 - [Guia do Exame AWS Certified Solutions Architect – Associate (SAA-C03)](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/blob/main/conteudos/0.%20Guia%20do%20Exame.md)
-
----
 
 ## ☁️ Fundamentos de Arquitetura AWS
 
@@ -38,29 +34,18 @@
 - [Armazenamento de Conteúdo com o Amazon S3](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/blob/main/conteudos/14.%20Armazenamento%20de%20Conte%C3%BAdo%20com%20o%20Amazon%20S3.md)
 - [Criptografia e Proteção de Dados](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/blob/main/conteudos/15.%20Criptografia%20e%20Prote%C3%A7%C3%A3o%20de%20Dados.md)
 
----
-
 ## 🧪 Laboratórios Práticos  
-> *(em construção)*  
 - [Análise do AWS Identity and Access Management (IAM)](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/blob/main/conteudos/10.%20Laborat%C3%B3rio%20-%20An%C3%A1lise%20do%20IAM.md)
-- Projetando arquiteturas Multi-AZ  
-- Criando ambientes Auto Scaling + Load Balancer  
-- Subindo aplicações serverless com Lambda + API Gateway  
-- Criando VPCs complexas (privadas/públicas + NAT + IGW)  
-- Arquitetando soluções híbridas (VPN + Direct Connect)  
-- Replicando dados entre regiões com S3 e DynamoDB  
-- Construindo bancos de dados resilientes com Aurora  
-- Configurando observabilidade com CloudWatch e CloudTrail  
+
+## 🎬 Cenários
 
 ## 🏗️ Projetos Práticos  
-> *(em construção)*  
+> *(a ser construído)*  
 - Projeto de Arquiteturas Resilientes
 - Projeto para Alto Desempenho
 - Projeto para Segurança
 - Projeto para Custo Eficiente
 - Projeto para Operações Confiáveis
-
----
 
 ## ✍️ Sobre mim
 
