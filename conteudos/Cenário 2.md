@@ -10,9 +10,10 @@ Os padrões de uso dos modelos são irregulares.
 Alguns modelos podem ficar sem uso por dias ou semanas.  
 Outros modelos podem receber lotes de milhares de solicitações de uma só vez.  
 
-🤔 Qual design um arquiteto de soluções deve recomendar para atender a esses requisitos?  
+### 🤔 Qual design um arquiteto de soluções deve recomendar para atender a esses requisitos?  
 
-➡️ Resposta: Direcionar as solicitações da API para uma fila do Amazon Simple Queue Service (Amazon SQS).  
+### ➡️ Resposta: 
+Direcionar as solicitações da API para uma fila do Amazon Simple Queue Service (Amazon SQS).  
 Implantar os modelos como serviços do Amazon Elastic Container Service (Amazon ECS) que leem da fila.  
 Habilitar o AWS Auto Scaling no Amazon ECS tanto para o cluster quanto para as cópias do serviço com base no tamanho da fila.  
 
