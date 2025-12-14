@@ -46,13 +46,14 @@ O SQS:
 ### 2️⃣ Implantar os modelos como serviços do Amazon ECS que leem da fila
 
 *Por que ECS (containers)?*  
-Cada modelo:
-- carrega ~1 GB do S3
-- mantém dados em memória
-Containers:
-- suportam alto uso de memória
-- inicializam o modelo uma vez
-- processam várias mensagens
+O Amazon ECS é o motor de processamento dos modelos de Machine Learning.
+Ele é responsável por:
+- executar os microsserviços de ML em containers  
+- carregar ~1 GB de modelo do S3 na inicialização
+- manter dados em memória
+- ler mensagens da fila SQS
+- processar uma ou várias soliciações
+- enviar o resultado para o destino informado pelo usuário
 
 **O que isso resolve no cenário?**
 
