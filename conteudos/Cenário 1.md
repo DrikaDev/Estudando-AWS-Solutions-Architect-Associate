@@ -5,9 +5,10 @@ A aplicação está numa arquitetura de três camadas numa VPC com Amazon RDS pa
 Vários jogadores irão competir online em simultâneo.  
 Os criadores do jogo pretendem apresentar um painel de avaliação dos 10 melhores em tempo real e oferecer a capacidade de parar e restaurar o jogo, preservando as pontuações atuais.
 
-🤔 O que um arquiteto de soluções deve fazer para atender a esses requisitos?
+### 🤔 O que um arquiteto de soluções deve fazer para atender a esses requisitos?
 
-➡️ Resposta: Configurar um *cluster Amazon ElastiCache for *Redis para calcular e armazenar em cache as pontuações a serem exibidas pelo aplicativo da Web.
+### ➡️ Resposta: 
+Configurar um *cluster Amazon ElastiCache for *Redis para calcular e armazenar em cache as pontuações a serem exibidas pelo aplicativo da Web.
 
 ## Redis ✖️ Memcached: você sabe a diferença? 👀
 
