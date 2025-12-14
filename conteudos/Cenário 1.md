@@ -7,7 +7,7 @@ Os criadores do jogo pretendem apresentar um painel de avaliação dos 10 melhor
 
 🤔 O que um arquiteto de soluções deve fazer para atender a esses requisitos?
 
-➡️ Configurar um *cluster Amazon ElastiCache for *Redis para calcular e armazenar em cache as pontuações a serem exibidas pelo aplicativo da Web.
+➡️ Resposta: Configurar um *cluster Amazon ElastiCache for *Redis para calcular e armazenar em cache as pontuações a serem exibidas pelo aplicativo da Web.
 
 ## Redis ✖️ Memcached: você sabe a diferença? 👀
 
