@@ -43,11 +43,22 @@ Ao configurar um **ambiente balanceado**, o Elastic Beanstalk:
 
 ## 🔄 Política de Implantação Contínua
 
-O Elastic Beanstalk permite configurar **políticas de implantação contínua**, que:
-- Implantam novas versões automaticamente
-- Reduzem ou eliminam downtime
-- Diminuem riscos durante atualizações
-- Facilitam correções rápidas de bugs
+No **AWS Elastic Beanstalk**, a **política de implantação contínua** define **como uma nova versão da aplicação é publicada no ambiente**, de forma **automatizada, controlada e com mínimo impacto para os usuários**.
+
+Ela permite que o Elastic Beanstalk:
+
+- Implante **novas versões da aplicação automaticamente**
+- **Reduza ou elimine downtime** durante atualizações
+- **Controle o risco**, atualizando instâncias de forma gradual ou criando ambientes paralelos
+- **Facilite rollback automático** em caso de falhas
+- Garanta **alta disponibilidade** durante o processo de deploy
+
+📌 Em vez de interromper o serviço, a aplicação é atualizada **progressivamente**, mantendo o ambiente funcional enquanto as novas versões entram em produção.
+
+Essa abordagem é essencial para aplicações que exigem:
+- Alta disponibilidade
+- Atualizações frequentes
+- Menor risco durante mudanças em produção
 
 ## ⭐ Vantagens da Solução
 
