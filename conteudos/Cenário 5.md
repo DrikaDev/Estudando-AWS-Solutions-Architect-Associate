@@ -46,6 +46,8 @@ Amazon SQS (fila)
 AWS Lambda
 ```
 
+<img width="727" height="363" alt="image" src="https://github.com/user-attachments/assets/11183b7a-8bd5-498c-889d-b99936fa1780" />
+
 ## 🤔 O que muda?
 
 1. O S3 envia eventos para o **Amazon SQS**, não diretamente para a Lambda  
