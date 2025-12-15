@@ -38,6 +38,11 @@
 - [Análise do AWS Identity and Access Management (IAM)](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/blob/main/conteudos/10.%20Laborat%C3%B3rio%20-%20An%C3%A1lise%20do%20IAM.md)
 
 ## 🎬 Cenários
+- [1 - Redis x Memcached](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/blob/main/conteudos/Cen%C3%A1rio%201.md)
+- [2 - Processamento de Modelos de ML com API Assíncrona, SQS e ECS](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/blob/main/conteudos/Cen%C3%A1rio%202.md)
+- [3 - Escolhendo o banco de dados certo sem mudar o MySQL](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/blob/main/conteudos/Cen%C3%A1rio%203.md)
+- [4 - AWS Lake Formation (LF-TBAC)](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/blob/main/conteudos/Cen%C3%A1rio%204.md)
+- [5 - S3, SQS e Lambda](https://github.com/DrikaDev/Estudando-AWS-Solutions-Architect-Associate/blob/main/conteudos/Cen%C3%A1rio%205.md)
 
 ## 🏗️ Projetos Práticos  
 > *(a ser construído)*  
