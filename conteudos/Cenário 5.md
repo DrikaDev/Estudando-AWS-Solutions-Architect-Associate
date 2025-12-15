@@ -1,4 +1,4 @@
-## Cenário 5 - S3 e Lambda
+## Cenário 5 - S3, SQS e Lambda
 
 Uma empresa implementou um aplicativo serverless que invoca uma função AWS Lambda sempre que novos documentos são carregados em um bucket Amazon S3.  
 O aplicativo usa a função Lambda para processar os documentos.  
