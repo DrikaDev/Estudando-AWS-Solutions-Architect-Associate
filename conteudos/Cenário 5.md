@@ -39,26 +39,49 @@ Apesar de o AWS Lambda escalar automaticamente, existem limitações importantes
 
 ## 🏗️ Arquitetura Melhorada
 ```
+User
+  ↓ (upload)
 Amazon S3
-↓
-Amazon SQS (fila)
-↓
+  ↓ (Event Notification)
+Amazon SQS
+  ↓ (polling)
 AWS Lambda
 ```
 
-<img width="727" height="363" alt="image" src="https://github.com/user-attachments/assets/11183b7a-8bd5-498c-889d-b99936fa1780" />
+<img width="639" height="319" alt="image" src="https://github.com/user-attachments/assets/cc192c79-ab84-4e8f-b65c-fd7627a5b127" />
 
 ## 🤔 O que muda?
 
-1. O S3 envia eventos para o **Amazon SQS**, não diretamente para a Lambda  
-2. A fila **absorve picos de milhares de uploads**  
-3. A Lambda consome mensagens **no ritmo suportado**  
-4. Em caso de falha:
-   - A mensagem **permanece na fila durante o visibility timeout**
-   - Há **retries automáticos**
-   - Pode-se configurar uma **Dead-Letter Queue (DLQ)**
-     > **Dead-Letter Queue (DLQ)** é uma fila de mensagens para erros.  
-     > É onde vão parar mensagens que **não conseguiram ser processadas após várias tentativas**.  
+### 👤 User
+- Realiza o upload do arquivo
+- Inicia o fluxo de processamento ao enviar o documento
+
+### 🪣 Amazon S3
+- Armazena o documento
+- Gera eventos do tipo **ObjectCreated**
+- **Não realiza processamento**
+- Atua apenas como origem dos dados
+- Envia eventos para o **Amazon SQS**, não diretamente para a Lambda  
+
+### 📬 Amazon SQS (Buffer)
+- Recebe eventos enviados pelo Amazon S3
+- A fila absorve picos de tráfego (milhares de uploads simultâneos)
+- Garante durabilidade das mensagens
+- Controla o ritmo de processamento (*buffer de carga*)
+
+### ⚡ AWS Lambda
+- Realiza o polling na fila Amazon SQS
+- Lê mensagens da fila
+- Processa os documentos
+- Escala automaticamente conforme o volume de mensagens na fila
+- Consome mensagens **no ritmo suportado**  
+
+Em caso de falha:
+- A mensagem **fica invísivel na fila durante o visibility timeout**
+- Há **retries automáticos**
+- Pode-se configurar uma **Dead-Letter Queue (DLQ)**
+  > **Dead-Letter Queue (DLQ)** é uma fila de mensagens para erros.  
+  > É onde vão parar mensagens que **não conseguiram ser processadas após várias tentativas**.  
 
 ## 🚀 Por que essa arquitetura funciona?
 
