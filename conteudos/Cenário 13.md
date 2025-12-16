@@ -5,6 +5,8 @@ Um arquiteto de soluções recém-contratado descobre que um funcionário anteri
 O arquiteto de soluções precisa construir e mapear os detalhes do relacionamento das várias cargas de trabalho em todas as contas.
 
 ### 🤔 Qual solução atenderá a esses requisitos da maneira mais eficiente operacionalmente?
+
+### ➡️ Resposta
 Utilizar a **Descoberta de Carga de Trabalho na AWS** (AWS Application Discovery Service) para gerar diagramas de arquitetura das cargas de trabalho.
 
 ## 🧠 Explicação Geral
