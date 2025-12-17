@@ -13,6 +13,8 @@ Implantar um **AWS Storage Gateway – Volume Gateway** configurado com **volume
 ## 🏗️ Arquitetura da Solução
 
 - O **AWS Storage Gateway** é implantado no ambiente on-premises (como VM ou hardware)
+> É o serviço híbrido da AWS que conecta o ambiente on-premises com o armazenamento na nuvem AWS, permitindo que aplicações locais usem a nuvem como se fosse um storage local.  
+> Permitindo usar a AWS como extensão do seu storage on-premises, com baixa latência e mínima mudança na infraestrutura.  
 - O **Volume Gateway com volumes em cache**:
   - Mantém os **dados mais acessados localmente**
   - Armazena o **conjunto completo de dados na AWS (Amazon S3)**
